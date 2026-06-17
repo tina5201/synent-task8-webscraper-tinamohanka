@@ -1,1 +1,0 @@
-# synent-task8-webscraper-tinamohanka
