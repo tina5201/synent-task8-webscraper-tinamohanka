@@ -108,5 +108,5 @@ synent-task8-webscraper-yourname/
 
 ## 👤 Author
 
-**Your Name**
+Tina Kumari Mohanka
 Python Development Intern – Synent Technologies
