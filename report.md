@@ -22,7 +22,7 @@ To build a web scraper that extracts book data (title, price, rating, availabili
 - `csv` module - saving data as CSV
 - VS Code - code editor
 - GitHub - version control
-- Website used: [books.toscrape.com](https://books.toscrape.com) — free, legal practice site
+- Website used: [books.toscrape.com](https://books.toscrape.com) - free, legal practice site
 
 ---
 
