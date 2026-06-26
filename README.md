@@ -1,4 +1,4 @@
-# 🕸️ Web Scraper — Books Data
+# 🕸️ Web Scraper - Books Data
 
 **Synent Technologies – Python Development Internship**
 **Task 8 – Advanced Level**
